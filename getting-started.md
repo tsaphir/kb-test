@@ -8,6 +8,5 @@
 
 [HW] (/hardware-datasheets)
 
-![HW] (/hardware-datasheets)
 
 
