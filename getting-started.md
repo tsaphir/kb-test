@@ -6,7 +6,12 @@
 
 ![Ts Square Small](/uploads/ts-square-small.png "Ts Square Small")
 
-[HW] (/hardware-datasheets)
+[hardwares] (/hardware-datasheets)
+
+[hardwares](/hardware-datasheets)
+
+[hardwares] (/hardware-datasheets)
+
 
 
 
